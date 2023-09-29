@@ -19,7 +19,7 @@ Before using this script, ensure you have the following:
 4. In the left sidebar, click on "Local Storage," then select `https://discord.com`.
 5. Look for the "token" key in the right-hand pane. This is your user token.
 
-**Warning:** Keep your token private and never share it with anyone.
+**Warning:** Keep your token private and never share it with anyone.**
 
 ## How to Get a Discord Channel ID
 
